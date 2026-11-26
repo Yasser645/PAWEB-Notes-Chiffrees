@@ -1,0 +1,9 @@
+# Donnees chiffrees
+notes.enc
+
+# Dependances Node.js
+node_modules/
+
+# Fichiers systeme
+.DS_Store
+Thumbs.db
